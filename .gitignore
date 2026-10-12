@@ -27,6 +27,7 @@ venv/
 env/
 ENV/
 .env/
+.venv
 
 # Environment variables / Secrets (CRITICAL)
 .env
