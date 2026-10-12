@@ -1,0 +1,25 @@
+# Git and VCS
+.git
+.gitignore
+
+# Environment variables and secrets (CRITICAL for Docker security)
+.env
+.env.*
+
+# Python cache and virtual environments
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.venv
+venv
+ENV
+
+# IDEs and OS specific files
+.vscode
+.idea
+.DS_Store
+
+# Documentation and temporary files
+README.md
+.agents/
